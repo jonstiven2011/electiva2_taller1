@@ -3,7 +3,7 @@
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
-describe('App: Electiva2Taller1', () => {
+describe('App: Electiva2', () => {
   beforeEach(() => {
     TestBed.configureTestingModule({
       declarations: [
